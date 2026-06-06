@@ -2,14 +2,8 @@ class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
 
-        int i = 0;
-
-        unordered_map<char,int> mp;
-        unordered_map<char,int> tmp;
-
-        for(int i = 0; i < s1.size(); i++){
-            mp[s1[i]]++;
-        }
+        unordered_map<char , int>mp;
+        unordered_map<char , int>wind;
 
         int k = s1.size();
         int v = s2.size();
@@ -17,33 +11,31 @@ public:
         if(k > v){
             return false;
         }
-
-        for(int j = 0; j < v; j++){
-
         
-            tmp[s2[j]]++;
+        for(int i=0; i < s1.size() ;i++){
+            mp[s1[i]]++;
+        }
+        int i=0;
+         for(int j=0; j< s2.size(); j++){
 
-            
-            if(j - i + 1 > k){
+            wind[s2[j]]++;
 
-                tmp[s2[i]]--;
+            if( j -i + 1 > k){
+                 wind[s2[i]]--;
+                 
+                    if(wind[s2[i]] == 0){
+                    wind.erase(s2[i]);
+                 }
+                 i++;
 
-                if(tmp[s2[i]] == 0){
-                    tmp.erase(s2[i]);
-                }
-
-                i++;
             }
-
-
-            if(j - i + 1 == k){
-
-                if(mp == tmp){
+         
+            if(j -i +1 == k){
+                if(mp == wind){
                     return true;
                 }
             }
-        }
-
-        return false;
-    }
+         }
+       return false;
+}
 };
