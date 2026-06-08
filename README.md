@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aiman2027/Leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Aiman2027/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aiman2027/Leetcode-solution/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Aiman2027/Leetcode-solution/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aiman2027/Leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Aiman2027/Leetcode-solution/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
