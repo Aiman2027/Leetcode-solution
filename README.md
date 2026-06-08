@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aiman2027/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aiman2027/Leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aiman2027/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aiman2027/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aiman2027/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aiman2027/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aiman2027/Leetcode-solution/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aiman2027/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aiman2027/Leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Aiman2027/Leetcode-solution/tree/master/0704-binary-search) |
 ## Sorting
