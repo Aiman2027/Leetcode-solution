@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aiman2027/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Aiman2027/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Aiman2027/Leetcode-solution/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Aiman2027/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
