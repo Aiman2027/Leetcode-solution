@@ -2,51 +2,54 @@
 using namespace std;
 
 class Node{
-
 public:
-   int data;
-   Node* next;
+    int data;
+    Node* next;
 
-   Node(int data1){
-
-    data = data1;
-    next = nullptr;
-   }
-
+    Node(int data1){
+        data = data1;
+        next = nullptr;
+    }
 };
 
-
 Node* deletehead(Node* head){
-     Node* temp = head;
-     head = head->next;
-     delete temp;
-     return head;
+    if(head == NULL) return NULL;
+
+    Node* temp = head;
+    head = head->next;
+    delete temp;
+
+    return head;
 }
 
 Node* deletetail(Node* head){
-  if(head == NULL || head->next == NULL){
+    if(head == NULL) return NULL;
+
+    if(head->next == NULL){
         delete head;
         return NULL;
     }
 
-     Node* tail = head;
-     Node* pre = NULL;
+    Node* tail = head;
+    Node* pre = NULL;
 
-     while(tail->next != NULL){
-      pre = tail;
-      tail = tail->next;
-      
+    while(tail->next != NULL){
+        pre = tail;
+        tail = tail->next;
+    }
 
-     }
-     
-     pre->next = NULL;
-     delete tail;
-     return head;
+    pre->next = NULL;
+    delete tail;
+
+    return head;
 }
 
+Node* deletek(Node* head, int k){
 
-Node* deletek(Node* head , int k){
-  if(k == 1){
+    if(head == NULL || k <= 0)
+        return head;
+
+    if(k == 1){
         Node* temp = head;
         head = head->next;
         delete temp;
@@ -55,122 +58,134 @@ Node* deletek(Node* head , int k){
 
     Node* temp = head;
     Node* pre = NULL;
-
     int cnt = 1;
 
     while(temp != NULL){
 
-      if(cnt == k){
-       pre->next = temp->next;
-        
-        delete temp;
-        break;
-      }
-      pre = temp;
-      temp = temp-> next;
-      cnt++;
+        if(cnt == k){
+            pre->next = temp->next;
+            delete temp;
+            return head;
+        }
+
+        pre = temp;
+        temp = temp->next;
+        cnt++;
     }
- return head;
+
+    return head; 
 }
 
 Node* Inserhead(Node* head, int val){
 
-     Node*temp = new Node(val);
-     temp->next = head;
-     head = temp;
+    Node* temp = new Node(val);
+    temp->next = head;
 
-     return head;
+    return temp;
 }
 
-Node* Insertail(Node* head , int val){
+Node* Insertail(Node* head, int val){
 
     Node* temp = new Node(val);
+
+    if(head == NULL)
+        return temp;
+
     Node* tail = head;
 
     while(tail->next != NULL){
-       
-       tail = tail->next;
-     } 
+        tail = tail->next;
+    }
 
-     tail->next = temp;
-     temp = tail;
-     return head;
-   }
+    tail->next = temp;
 
-  Node* Insertkthposition(Node* head , int k, int val){
+    return head;
+}
+
+Node* Insertkthposition(Node* head, int k, int val){
+
+    if(k <= 0)
+        return head;
+
     if(k == 1){
         Node* value = new Node(val);
         value->next = head;
         return value;
     }
 
-       Node* value = new Node(val);
-       int cnt = 0;
-       Node* temp = head;
-       Node* pre = NULL;
+    Node* temp = head;
+    int cnt = 1;
 
-       while(temp != NULL){
-  
-        if(cnt == k){
-           value->next = temp;
-           pre->next = value;
-           break;
-        }
-        pre = temp;
+    while(temp != NULL && cnt < k - 1){
         temp = temp->next;
         cnt++;
-        }
-        return head;
-  }
+    }
 
+    if(temp == NULL)
+        return head; 
 
-Node* convertarray(vector<int>&arr){
+    Node* value = new Node(val);
 
-      Node* head = new Node(arr[0]);
-      Node* mover = head;
+    value->next = temp->next;
+    temp->next = value;
 
-      for(int i =1;i< arr.size();i++){
+    return head;
+}
+
+Node* convertarray(vector<int>& arr){
+
+    if(arr.size() == 0)
+        return NULL;
+
+    Node* head = new Node(arr[0]);
+    Node* mover = head;
+
+    for(int i = 1; i < arr.size(); i++){
 
         Node* temp = new Node(arr[i]);
         mover->next = temp;
         mover = temp;
-      }
-      return head;
     }
 
+    return head;
+}
 
-    void print(Node* head){
+void print(Node* head){
 
-     Node* temp = head;
+    Node* temp = head;
 
-     while(temp){
-      cout<<temp->data<<" ";
-      temp = temp->next;
-     }
-     cout<<endl;
- }
+    while(temp){
+        cout << temp->data << " ";
+        temp = temp->next;
+    }
 
+    cout << endl;
+}
 
 int main(){
-  
-vector<int> arr = {3,6,8,9,0};
 
- Node* ans = convertarray(arr);
- Node* New= Inserhead(ans ,10);
- print(New);
- Node*  New2 = Insertail(New ,90);
-print(New2);
-Node*  New3 = Insertkthposition(New2,3,100);
-print(New3);
+    vector<int> arr = {3,6,8,9,0};
 
-Node* delh = deletehead(New3);
-print(delh);
+    Node* head = convertarray(arr);
+    print(head);
 
-Node* delt = deletetail(delh);
-print(delt);
-Node* delk = deletek(delt , 2);
-print(delk);
+    head = Inserhead(head, 10);
+    print(head);
 
+    head = Insertail(head, 90);
+    print(head);
 
-return 0;
+    head = Insertkthposition(head, 3, 100);
+    print(head);
+
+    head = deletehead(head);
+    print(head);
+
+    head = deletetail(head);
+    print(head);
+
+    head = deletek(head, 2);
+    print(head);
+
+    return 0;
 }
