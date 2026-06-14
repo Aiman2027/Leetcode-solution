@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aiman2027/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aiman2027/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aiman2027/Leetcode-solution/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Aiman2027/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Aiman2027/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aiman2027/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
@@ -101,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aiman2027/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Aiman2027/Leetcode-solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aiman2027/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Aiman2027/Leetcode-solution/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
