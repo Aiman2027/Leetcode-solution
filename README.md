@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aiman2027/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aiman2027/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aiman2027/Leetcode-solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aiman2027/Leetcode-solution/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aiman2027/Leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aiman2027/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aiman2027/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aiman2027/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Aiman2027/Leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aiman2027/Leetcode-solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aiman2027/Leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
