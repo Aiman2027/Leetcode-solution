@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aiman2027/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Aiman2027/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Aiman2027/Leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Aiman2027/Leetcode-solution/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aiman2027/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aiman2027/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aiman2027/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aiman2027/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Aiman2027/Leetcode-solution/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Aiman2027/Leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aiman2027/Leetcode-solution/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Aiman2027/Leetcode-solution/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
