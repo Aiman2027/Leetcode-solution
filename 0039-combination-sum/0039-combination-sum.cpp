@@ -1,25 +1,40 @@
 class Solution {
 public:
-      
-     void solve(int idx ,vector<int>& arr, int target,vector<int>&temp,
-      vector<vector<int>> &ans){
-         if(target==0){
-            ans.push_back(temp);
+    vector<vector<int>> result;
+
+    void csum(vector<int>& candidates,
+              vector<int>& store,
+              int target,
+              int idx) {
+
+        if (target == 0) {
+            result.push_back(store);
             return;
-            }
-           if(idx==arr.size())return; 
-           if(arr[idx] <= target){
-             temp.push_back(arr[idx]);
-             solve(idx,arr,target-arr[idx],temp,ans);
-             temp.pop_back();
-             }
-             solve(idx+1,arr,target,temp,ans);
-             }
-      vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-       vector<vector<int>> ans;
-       vector<int>temp;
-       solve(0, candidates, target, temp, ans);
-       return ans;
-        
+        }
+
+        if (idx == candidates.size() || target < 0) {
+            return;
+        }
+
+        store.push_back(candidates[idx]);
+        csum(candidates, store,
+             target - candidates[idx],
+             idx);
+
+        store.pop_back();
+
+
+        csum(candidates, store,
+             target,
+             idx + 1);
+    }
+
+    vector<vector<int>> combinationSum(vector<int>& candidates,
+                                       int target) {
+
+        vector<int> store;
+        csum(candidates, store, target, 0);
+
+        return result;
     }
 };
