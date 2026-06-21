@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aiman2027/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Aiman2027/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aiman2027/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aiman2027/Leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aiman2027/Leetcode-solution/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aiman2027/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
