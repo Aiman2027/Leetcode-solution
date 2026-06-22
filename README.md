@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aiman2027/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aiman2027/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aiman2027/Leetcode-solution/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Aiman2027/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aiman2027/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Aiman2027/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aiman2027/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aiman2027/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Aiman2027/Leetcode-solution/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
