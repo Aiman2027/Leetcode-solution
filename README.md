@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aiman2027/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aiman2027/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aiman2027/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aiman2027/Leetcode-solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aiman2027/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aiman2027/Leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aiman2027/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aiman2027/Leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aiman2027/Leetcode-solution/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aiman2027/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aiman2027/Leetcode-solution/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
