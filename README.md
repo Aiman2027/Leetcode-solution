@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Aiman2027/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aiman2027/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 ## Array
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aiman2027/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aiman2027/Leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aiman2027/Leetcode-solution/tree/master/0202-happy-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Aiman2027/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aiman2027/Leetcode-solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aiman2027/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aiman2027/Leetcode-solution/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Aiman2027/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aiman2027/Leetcode-solution/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Aiman2027/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
 |  |
 | ------- |
@@ -220,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aiman2027/Leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aiman2027/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aiman2027/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
