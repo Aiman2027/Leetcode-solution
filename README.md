@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aiman2027/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Aiman2027/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aiman2027/Leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aiman2027/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Aiman2027/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aiman2027/Leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aiman2027/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aiman2027/Leetcode-solution/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
