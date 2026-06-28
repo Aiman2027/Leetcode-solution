@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aiman2027/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Aiman2027/Leetcode-solution/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aiman2027/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Aiman2027/Leetcode-solution/tree/master/3847-find-the-score-difference-in-a-game) |
 <!---LeetCode Topics End-->
