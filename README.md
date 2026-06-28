@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aiman2027/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aiman2027/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aiman2027/Leetcode-solution/tree/master/0202-happy-number) |
+| [3848-check-digitorial-permutation](https://github.com/Aiman2027/Leetcode-solution/tree/master/3848-check-digitorial-permutation) |
 ## Linked List
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aiman2027/Leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aiman2027/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aiman2027/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [3848-check-digitorial-permutation](https://github.com/Aiman2027/Leetcode-solution/tree/master/3848-check-digitorial-permutation) |
 ## Queue
 |  |
 | ------- |
