@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aiman2027/Leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aiman2027/Leetcode-solution/tree/master/0198-house-robber) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aiman2027/Leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Aiman2027/Leetcode-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aiman2027/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aiman2027/Leetcode-solution/tree/master/0202-happy-number) |
 | [3848-check-digitorial-permutation](https://github.com/Aiman2027/Leetcode-solution/tree/master/3848-check-digitorial-permutation) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Aiman2027/Leetcode-solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Linked List
 |  |
 | ------- |
