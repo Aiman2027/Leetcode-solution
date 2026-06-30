@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aiman2027/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Aiman2027/Leetcode-solution/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3861-minimum-capacity-box](https://github.com/Aiman2027/Leetcode-solution/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
