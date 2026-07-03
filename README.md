@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aiman2027/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aiman2027/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Aiman2027/Leetcode-solution/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Aiman2027/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aiman2027/Leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aiman2027/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aiman2027/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Aiman2027/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Aiman2027/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Aiman2027/Leetcode-solution/tree/master/0860-lemonade-change) |
 ## Trie
 |  |
 | ------- |
